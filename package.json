@@ -7,9 +7,6 @@
         "type": "git",
         "url": "git://github.com/stephanepericat/beardcomb.git"
     },
-    "bin": {
-        "beardcomb": "./bin/beardcomb"
-    },
     "main": "./lib/beardcomb",
     "engines": {
         "node": ">= v0.4.x"
