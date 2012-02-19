@@ -12,8 +12,12 @@ app.get('/', function(req, res) {
     res.render('index', {
         locals: {
             title: 'Beardcomb'
+        },
+        partials: {
+            footer: '<p align="center">Powered by {{title}}</p>'
         }
     });    
 });
 
-app.listen(process.env.C9_PORT, '0.0.0.0');
+//app.listen(process.env.C9_PORT, '0.0.0.0');
+app.listen(8080);
