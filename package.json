@@ -1,0 +1,21 @@
+{
+    "author": "Stephane P. Pericat <contact@pericat.net>",
+    "name": "beardcomb",
+    "description": "Hogan.js adaptor for Express",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/stephanepericat/beardcomb.git"
+    },
+    "bin": {
+        "beardcomb": "./bin/beardcomb"
+    },
+    "main": "./lib/beardcomb",
+    "engines": {
+        "node": ">= v0.4.x"
+    },
+    "dependencies": {
+        "hogan.js": "1.0.x"
+    },
+    "devDependencies": {}
+}
