@@ -1,4 +1,4 @@
-#Beardcomb v0.1.0#
+#Beardcomb v0.1.1#
 
 Hogan.js adaptor for Express.
 
