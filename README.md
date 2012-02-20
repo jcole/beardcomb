@@ -19,6 +19,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     cd beardcomb/
     npm install
     
+###Via NPM###
+
+    npm install beardcomb
+    
 ##How to use##
 
     var express = require('express'),
