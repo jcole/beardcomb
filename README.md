@@ -56,3 +56,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ##Demo##
 
     node demo/app.js
+
+##Changelog##
+
+0.1.1: added support for whitespaces in partial names
+0.1.0: First version
