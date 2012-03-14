@@ -12,7 +12,8 @@
         "node": ">= v0.4.x"
     },
     "dependencies": {
-        "hogan.js": "1.0.x"
+        "hogan.js": "1.0.x",
+        "file": "0.2x"
     },
     "devDependencies": {}
 }

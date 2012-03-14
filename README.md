@@ -1,4 +1,4 @@
-#Beardcomb v0.1.1#
+#Beardcomb v0.2.0#
 
 Hogan.js adaptor for Express.
 
@@ -51,7 +51,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ##Features##
 
 - layout enabled: create a file called 'layout.html' and add the tag {{{contents}}}, it will parse the view contents into it
-- partials can be passed either as html code as seen above, or as a template file (in the views folder)
+- partials can be passed either as html code as seen above, or as a template file
+- <b>NEW!</b> Beardcomb now supports recursive lookup of partials template files
 
 ##Demo##
 
@@ -59,5 +60,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ##Changelog##
 
+- 0.2.0: added support for recursive lookup of partials template files
 - 0.1.1: added support for whitespaces in partial names
 - 0.1.0: First version
