@@ -1,4 +1,4 @@
-#Beardcomb v0.2.0#
+#Beardcomb v0.2.1#
 
 Hogan.js adaptor for Express.
 
@@ -60,6 +60,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ##Changelog##
 
-- 0.2.0: added support for recursive lookup of partials template files
+- 0.2.1: added support for recursive lookup of partials template files
 - 0.1.1: added support for whitespaces in partial names
 - 0.1.0: First version
