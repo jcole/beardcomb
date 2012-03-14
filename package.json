@@ -13,7 +13,7 @@
     },
     "dependencies": {
         "hogan.js": "1.0.x",
-        "file": "0.2x"
+        "file": "0.2.x"
     },
     "devDependencies": {}
 }
